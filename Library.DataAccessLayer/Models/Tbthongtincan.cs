@@ -1,0 +1,102 @@
+﻿using System;
+using System.Collections.Generic;
+
+namespace Library.DataAccessLayer.Models
+{
+    public partial class Tbthongtincan
+    {
+        public string? Tenphuongtien { get; set; }
+        public string? Kieu { get; set; }
+        public string? So { get; set; }
+        public string? Capchinhxac { get; set; }
+        public string? NamSx { get; set; }
+        public string? NuocSx { get; set; }
+        public double? Mucmax { get; set; }
+        public double? Mucmin { get; set; }
+        public double? Dochia { get; set; }
+        public double? Dochiadiem { get; set; }
+        public string? Donvisd { get; set; }
+        public string? Chedokd { get; set; }
+        public string? Ngay { get; set; }
+        public string? Kiemdinhvien { get; set; }
+        public int? Ktnhan { get; set; }
+        public int? Ktdaydu { get; set; }
+        public int? Ktdongho { get; set; }
+        public int? Ktchitiet { get; set; }
+        public int? Ktsaiso { get; set; }
+        public int? Ktdodong { get; set; }
+        public int? Ktdolechtam { get; set; }
+        public int? Ktdolap { get; set; }
+        public double? Minl1dodong { get; set; }
+        public double? MinGdodong { get; set; }
+        public double? Minl2dodong { get; set; }
+        public string? Mindodong { get; set; }
+        public double? Nuamaxl1dodong { get; set; }
+        public double? NuamaxGdodong { get; set; }
+        public double? Nuamaxl2dodong { get; set; }
+        public string? Nuamaxdodong { get; set; }
+        public double? Maxl1dodong { get; set; }
+        public double? MaxGdodong { get; set; }
+        public double? Maxl2dodong { get; set; }
+        public string? Maxdodong { get; set; }
+        public double? Minl1laplai { get; set; }
+        public double? Minl2laplai { get; set; }
+        public double? Minl3laplai { get; set; }
+        public double? Mincllnlaplai { get; set; }
+        public double? Minclcplaplai { get; set; }
+        public double? Nuamaxl1laplai { get; set; }
+        public double? Nuamaxl2laplai { get; set; }
+        public double? Nuamaxl3laplai { get; set; }
+        public double? Nuamaxcllnlaplai { get; set; }
+        public double? Nuamaxclcplaplai { get; set; }
+        public double? Maxl1laplai { get; set; }
+        public double? Maxl2laplai { get; set; }
+        public double? Maxl3laplai { get; set; }
+        public double? Maxcllnlaplai { get; set; }
+        public double? Maxclcplaplai { get; set; }
+        public double? Muctailechtam { get; set; }
+        public double? Glechtam { get; set; }
+        public double? L1lechtam { get; set; }
+        public double? L2lechtam { get; set; }
+        public double? L3lechtam { get; set; }
+        public double? L4lechtam { get; set; }
+        public double? Cllnlechtam { get; set; }
+        public double? Clcplechtam { get; set; }
+        public double? Muctaiss1 { get; set; }
+        public double? Muctaiss2 { get; set; }
+        public double? Muctaiss3 { get; set; }
+        public double? Muctaiss4 { get; set; }
+        public double? Muctaiss5 { get; set; }
+        public double? Chithitang1 { get; set; }
+        public double? Chithitang2 { get; set; }
+        public double? Chithitang3 { get; set; }
+        public double? Chithitang4 { get; set; }
+        public double? Chithitang5 { get; set; }
+        public double? Chithigiam1 { get; set; }
+        public double? Chithigiam2 { get; set; }
+        public double? Chithigiam3 { get; set; }
+        public double? Chithigiam4 { get; set; }
+        public double? Sstang1 { get; set; }
+        public double? Sstang2 { get; set; }
+        public double? Sstang3 { get; set; }
+        public double? Sstang4 { get; set; }
+        public double? Sstang5 { get; set; }
+        public double? Ssgiam1 { get; set; }
+        public double? Ssgiam2 { get; set; }
+        public double? Ssgiam3 { get; set; }
+        public double? Ssgiam4 { get; set; }
+        public double? Sschophep1 { get; set; }
+        public double? Sschophep2 { get; set; }
+        public double? Sschophep3 { get; set; }
+        public double? Sschophep4 { get; set; }
+        public double? Sschophep5 { get; set; }
+        public double? Ds1 { get; set; }
+        public double? Ds2 { get; set; }
+        public double? Ds3 { get; set; }
+        public double? Ds4 { get; set; }
+        public string? Maqd { get; set; }
+        public string? Diachisd { get; set; }
+        public double? Loaican { get; set; }
+        public string? Ppthuchien { get; set; }
+    }
+}
